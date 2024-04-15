@@ -3,7 +3,7 @@
     "sites": [  
   {
       "key": "索尼资源",
-      "name": "蓝光┃SN",
+      "name": "私人影院",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
       "categories": [
