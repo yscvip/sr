@@ -3,7 +3,7 @@
     "sites": [  
   {
       "key": "索尼资源",
-      "name": "私人影院",
+      "name": "私人影院 -绿茶┃ET",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
       "categories": [
