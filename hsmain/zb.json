@@ -1,0 +1,45 @@
+{
+  "spider": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+  "sites": [
+    {
+      "key": "T4-heihu",
+      "name": "私人影院丨T4黑狐",
+      "type": 4,
+      "api": "https://catbox.n13.club/heihu.php"
+    },
+
+   "lives": [
+    {
+      "name": "直播の1",
+      "type": 0,
+      "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/yscvip/sryy/main/hsmain/md.m3u",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "直播の2",
+      "type": 0,
+      "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/yscvip/sryy/main/hsmain/XTV.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "直播の3",
+      "type": 0,
+      "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/yscvip/sryy/main/hsmain/Adult.m3u",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "直播のs",
+      "type": 0,
+      "url": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/yscvip/sryy/main/hsmain/daquan.txt",
+      "playerType": 1,
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ]
+}
