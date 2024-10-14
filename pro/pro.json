@@ -1,5 +1,9 @@
 {
-"spider":"https://gitee.com/juanxiao/bh/raw/master/o.jar",
+
+
+
+
+"spider":"./o.jar",
 
 "lives":[
     
@@ -17,6 +21,9 @@
     "urls":["proxy://do=live&type=txt&ext=aHR0cDovL3F1YW4ubG92ZXN0b2Jsb2cuY29tL2NvbWJpbmUudHh0"]}]
     }],
 "sites":[
+{"key":"1","name":"🔞🈲未成年人禁止访问，请止步！！","type":0,"api":""},
+{"key":"17","name":"🔞🈲分割线——————","type":0,"api":""},
+{"key":"14","name":"🔞分割线——————","type":0,"api":""},
        {
             "key": "色播",
             "name": "🔞色播直播",
@@ -1112,7 +1119,7 @@
             "分类":"仓库资源$1#AVXXC$2#AV奥斯卡$3#115资源$4",
              "分类url": "https://xpdhj.fun/xpdhj/vod/type/id/{cateId}/page/{catePg}.html"
             }
-        },{"key":"SeHuaTang","name":"🔞色花堂|网盘","type":3,"api":"csp_SeHuaTang","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/guot55/yg/main/lib/tokenm.json$$$null$$$proxy",
+        },{"key":"SeHuaTang","name":"🔞色花堂|网盘","type":3,"api":"csp_SeHuaTang","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/tokenm.json$$$null$$$proxy",
                         "style": {
                                 "type": "list",
                                 "ratio": 1.1
@@ -1205,7 +1212,7 @@
 {"key": "csp_jiujiuzhobo","name":"🔞久久直播","type": 3, "api": "csp_xBPQ","searchable": 0,"quickSearch": 0, "filterable": 0, "ext":"./lib/天天直播.json","jar":"./lib/xb.jar"}, 
 {"key":"csp_jy","name":"🔞聚优直播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/聚优直播0.json","jar":"./lib/xb.jar"},
  {"key":"csp_xBPQ_香蕉AV","name":"🔞天天综合","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/天天综合.json","jar":"./lib/Yoursmile2.jar"},
-    {"key":"csp_xBPQ_香蕉资","name":"🔞天天中文字幕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/guot55/yg/main/h/天天中文字幕.json","jar":"./lib/Yoursmile2.jar"},
+    {"key":"csp_xBPQ_香蕉资","name":"🔞天天中文字幕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/h/天天中文字幕.json","jar":"./lib/Yoursmile2.jar"},
     {"key":"csp_xBPQ_香蕉超","name":"🔞天天国产传媒","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/天天国产传媒.json","jar":"./lib/Yoursmile2.jar"},
 {
   "key": "m2v",
@@ -1358,7 +1365,7 @@
             "filterable": 0,
             "timeout": 60,
             "ext": "http://thzl.cc/forum.php"} ,
- {"key":"csp_xBPQ_91色","name":"🔞91色","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0, "ext":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/guot55/yg/main/h/91s.json","jar":"./lib/xb.jar"},
+ {"key":"csp_xBPQ_91色","name":"🔞91色","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0, "ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/h/91s.json","jar":"./lib/xb.jar"},
 {
             "key": "老鸭",
             "name": "👠老鸭采集",
@@ -1601,7 +1608,29 @@
                 "男同性恋",
                 "恋腿狂魔"
             ]
-        }, 
+        }, {"key":"drpy_js_Pornhub_密_.js","name":"Pornhub_密_.js","type":3,"api":"./lib/drpy2.min.js","ext":"https://gitlab.com/guot55/bh/-/raw/main/js/Pornhub_密_.js", "quickSearch":1, "changeable":1, "timeout":60
+                }, {"key":"drpy_js_R18撸_密_.js","name":"R18撸_密_.js","type":3,"api":"./lib/drpy2.min.js","ext":"https://gitlab.com/guot55/bh/-/raw/main/js/R18撸_密_.js", "quickSearch":1, "changeable":1, "timeout":60
+                }, {"key":"drpy_js_一点视频_密_.js","name":"一点视频_密_.js","type":3,"api":"./lib/drpy2.min.js","ext":"https://gitlab.com/guot55/bh/-/raw/main/js/一点视频_密_.js", "quickSearch":1, "changeable":1, "timeout":60
+                }, {"key":"drpy_js_乐草TV_密_.js","name":"乐草TV_密_.js","type":3,"api":"./lib/drpy2.min.js","ext":"https://gitlab.com/guot55/bh/-/raw/main/js/乐草TV_密_.js", "quickSearch":1, "changeable":1, "timeout":60
+                }, {"key":"drpy_js_九妖仓库_密_.js","name":"九妖仓库_密_.js","type":3,"api":"./lib/drpy2.min.js","ext":"https://gitlab.com/guot55/bh/-/raw/main/js/九妖仓库_密_.js", "quickSearch":1, "changeable":1, "timeout":60
+                }, {"key":"drpy_js_千百视频_密_.js","name":"千百视频_密_.js","type":3,"api":"./lib/drpy2.min.js","ext":"https://gitlab.com/guot55/bh/-/raw/main/js/千百视频_密_.js", "quickSearch":1, "changeable":1, "timeout":60
+                }, {"key":"drpy_js_人人影视","name":"人人影视[js]|搜","type":3,"api":"./lib/drpy2.min.js","ext":"https://gitlab.com/guot55/bh/-/raw/main/js/yyets.js", "quickSearch":1, "changeable":1, "timeout":60
+                }, {"key":"drpy_js_地瓜视频_密_.js","name":"地瓜视频_密_.js","type":3,"api":"./lib/drpy2.min.js","ext":"https://gitlab.com/guot55/bh/-/raw/main/js/地瓜视频_密_.js", "quickSearch":1, "changeable":1, "timeout":60
+                }, {"key":"drpy_js_恒大影视_密_新.js","name":"恒大影视_密_新.js","type":3,"api":"./lib/drpy2.min.js","ext":"https://gitlab.com/guot55/bh/-/raw/main/js/恒大影视_密_新.js", "quickSearch":1, "changeable":1, "timeout":60
+                }, {"key":"drpy_js_113影视_密_.js","name":"113影视_密","type":3,"api":"./lib/drpy2.min.js","ext":"https://gitlab.com/guot55/bh/-/raw/main/js/113影视_密_.js", "quickSearch":1, "changeable":1, "timeout":60
+                }, {"key":"drpy_js_188视频_密_.js","name":"188视频_密_.js","type":3,"api":"./lib/drpy2.min.js","ext":"https://gitlab.com/guot55/bh/-/raw/main/js/188视频_密_.js", "quickSearch":1, "changeable":1, "timeout":60
+                }, {"key":"drpy_js_29片库_密_.js","name":"29片库_密_.js","type":3,"api":"./lib/drpy2.min.js","ext":"https://gitlab.com/guot55/bh/-/raw/main/js/29片库_密_.js", "quickSearch":1, "changeable":1, "timeout":60
+                },{"key":"drpy_js_开心每一天.js","name":"开心每一天.js","type":3,"api":"./lib/drpy2.min.js","ext":"https://gitlab.com/guot55/bh/-/raw/main/js/开心每一天.js", "quickSearch":1, "changeable":1, "timeout":60
+                },{"key":"drpy_js_火车36小时.js","name":"火车36小时.js","type":3,"api":"./lib/drpy2.min.js","ext":"https://gitlab.com/guot55/bh/-/raw/main/js/火车36小时.js", "quickSearch":1, "changeable":1, "timeout":60
+                },{"key":"drpy_js_爱爱影院_密_.js","name":"爱爱影院_密_.js","type":3,"api":"./lib/drpy2.min.js","ext":"https://gitlab.com/guot55/bh/-/raw/main/js/爱爱影院_密_.js", "quickSearch":1, "changeable":1, "timeout":60
+                },{"key":"drpy_js_玉兔资源_密_.js","name":"玉兔资源_密_.js","type":3,"api":"./lib/drpy2.min.js","ext":"https://gitlab.com/guot55/bh/-/raw/main/js/玉兔资源_密_.js", "quickSearch":1, "changeable":1, "timeout":60
+                },{"key":"drpy_js_绿色仓库_密_.js","name":"绿色仓库_密_.js","type":3,"api":"./lib/drpy2.min.js","ext":"https://gitlab.com/guot55/bh/-/raw/main/js/绿色仓库_密_.js", "quickSearch":1, "changeable":1, "timeout":60
+                },{"key":"drpy_js_老司视频_密_.js","name":"老司视频_密_.js","type":3,"api":"./lib/drpy2.min.js","ext":"https://gitlab.com/guot55/bh/-/raw/main/js/老司视频_密_.js", "quickSearch":1, "changeable":1, "timeout":60
+                },{"key":"drpy_js_茅十八_密_.js","name":"茅十八_密_.js","type":3,"api":"./lib/drpy2.min.js","ext":"https://gitlab.com/guot55/bh/-/raw/main/js/茅十八_密_.js", "quickSearch":1, "changeable":1, "timeout":60
+                },{"key":"drpy_js_草榴社区.js","name":"草榴社区.js","type":3,"api":"./lib/drpy2.min.js","ext":"https://gitlab.com/guot55/bh/-/raw/main/js/草榴社区.js", "quickSearch":1, "changeable":1, "timeout":60
+                },{"key":"drpy_js_草莓秒播_密_.js","name":"草莓秒播_密_.js","type":3,"api":"./lib/drpy2.min.js","ext":"https://gitlab.com/guot55/bh/-/raw/main/js/草莓秒播_密_.js", "quickSearch":1, "changeable":1, "timeout":60
+                },{"key":"drpy_js_黑料不打烊_密_.js","name":"黑料不打烊_密_.js","type":3,"api":"./lib/drpy2.min.js","ext":"https://gitlab.com/guot55/bh/-/raw/main/js/黑料不打烊_密_.js", "quickSearch":1, "changeable":1, "timeout":60
+                },
         {
             "key": "大地专场",
             "name": "🔞大地采集",
@@ -2062,6 +2091,7 @@
 {"key": "*AIvin","name": "*🔞AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml"},
 
 { "key": "(18+)SS资源", "name": "*🔞SS资源", "type": 0, "api": "http://secj8.com/inc/sapi.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+{"key": "精工厂","name": "*🔞精工厂","type": 0,"api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"},
 
 {"key": "美少女","name": "*🔞美少女","type": 0,"api": "https://www.msnii.com/api/xml.php","searchable":0,"quickSearch":0,"filterable": 1,"jar":"https://share.nite07.com/api/v3/file/source/18178/18.jar?sign=4snwZEDuzr88tmVvCLDre0Jjbt5hOKh7zrtE37bQV30%3D%3A0"},
 
