@@ -15,7 +15,7 @@
             "key": "色播",
             "name": "🔞色播直播",
             "type": 3,
-            "api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/h/色播.js",
+            "api":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/yscvip/sryy/main/lib/色播.js",
             "searchable": 1,
             "changeable": 0
         },
@@ -37,7 +37,7 @@
       "type": 3,
       "api": "csp_XMVideo",
       "searchable": 1,
-      "filterable": 1,"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/182.jar"
+      "filterable": 1,"jar": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/yscvip/sryy/main/lib/182.jar"
     }, 
 {
             "key": "✨R撸巴✨",
@@ -46,7 +46,7 @@
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
-            "jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+            "jar":"https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/yscvip/sryy/main/lib/hl.jar",
             "filterable": 1,
             "ext": {
                 "数组": "img-box cover-md\"&&<p class=\"sub-title\">",
