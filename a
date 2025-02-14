@@ -3,7 +3,7 @@
     "sites": [  
      {
       "key": "DB",
-      "name": "私人影院 - 打造个人的专属影院",
+      "name": "私人影院 - 个人的专属影院",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
@@ -15,10 +15,9 @@
             "key": "色播",
             "name": "🔞色播直播",
             "type": 3,
-            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/sebo.js",
+            "api":"http://api.hclyz.com:81/mf/json.txt",
             "searchable": 1,
-            "changeable": 0,
-            "ext": "http://api.hclyz.com:81/mf/json.txt"
+            "changeable": 0
         },
     {
             "key": "XHP",
