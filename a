@@ -3,7 +3,7 @@
     "sites": [  
      {
       "key": "DB",
-      "name": "私人影院 - 个人的专属影院",
+      "name": "私人影院 - 专属影院",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0,
