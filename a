@@ -1,5 +1,5 @@
 {
-    "spider": "./pg.jar",
+    "spider": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/pg.jar",
     "sites": [  
      {
       "key": "DB",
@@ -9,13 +9,13 @@
       "searchable": 0,
       "changeable": 1,
       "indexs": 1,
-      "ext": "./lib/douban.json"
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/douban.json"
   },
        {
             "key": "色播",
             "name": "🔞色播直播",
             "type": 3,
-            "api":"./lib/sebo.js",
+            "api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/sebo.js",
             "searchable": 1,
             "changeable": 0
         },
@@ -37,7 +37,7 @@
       "type": 3,
       "api": "csp_XMVideo",
       "searchable": 1,
-      "filterable": 1,"jar": "./lib/182.jar"
+      "filterable": 1,"jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/182.jar"
     }, 
 {
             "key": "✨R撸巴✨",
@@ -46,7 +46,7 @@
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
-            "jar":"./lib/hl.jar",
+            "jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/hl.jar",
             "filterable": 1,
             "ext": {
                 "数组": "img-box cover-md\"&&<p class=\"sub-title\">",
@@ -66,7 +66,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./lib/Yoursmile2.jar",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/Yoursmile2.jar",
       "ext": "{\"分类url\":\"https://avhh.vip/cq/{cateId}-{catePg}.html\", \"分类\":\"请勿外传$2k-yazhou#按主页切换源$2k-zipaitoupai#无分类切换VPN$2k-chaoqingchuanmei#或者其他网络$2k-3Ddongman#资源网络共享$2k-oumei#有倒卖贩卖纯属欺诈$2k-luanlunrenqi#请勿相信！$2k-siwazhifu#绝对禁止未成年人观看$2k-zhibolubo#SM另类$2k-SMlinglei#超清三级$2k-chaoqingsanji\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/cq/Kplay&&.html\\\"\", \"链接前缀\": \"https://avhh.vip/cq/Kplay\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }"
     },
     {
@@ -77,8 +77,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./lib/Yoursmile2.jar",
-      "ext": "./lib/新香蕉AV解说.json"
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/Yoursmile2.jar",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/新香蕉AV解说.json"
     },
     {
       "key": "csp_xBPQ_香蕉资源",
@@ -88,8 +88,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./lib/Yoursmile2.jar",
-      "ext": "./lib/香蕉资源.json"
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/Yoursmile2.jar",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/香蕉资源.json"
     },
     {
       "key": "csp_xBPQ_香蕉超清",
@@ -99,8 +99,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./lib/Yoursmile2.jar",
-      "ext": "./lib/新香蕉超清资源.json"
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/Yoursmile2.jar",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/新香蕉超清资源.json"
     },
     {
       "key": "csp_xBPQ_香蕉国产",
@@ -110,8 +110,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./lib/Yoursmile2.jar",
-      "ext": "./lib/新香蕉国产传媒.json"
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/Yoursmile2.jar",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/新香蕉国产传媒.json"
     },
     {
       "key": "csp_xBPQ_香蕉久久热",
@@ -121,8 +121,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./lib/Yoursmile2.jar",
-      "ext": "./lib/新香蕉久久热.json"
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/Yoursmile2.jar",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/新香蕉久久热.json"
     },
     {
       "key": "csp_xBPQ_香蕉废柴",
@@ -132,8 +132,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./lib/Yoursmile2.jar",
-      "ext": "./lib/新香蕉废柴网.json"
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/Yoursmile2.jar",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/新香蕉废柴网.json"
     },
     {
       "key": "csp_xBPQ_香蕉直播",
@@ -143,8 +143,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "jar": "./lib/Yoursmile2.jar",
-      "ext": "./lib/新香蕉实时直播.json"
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/Yoursmile2.jar",
+      "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/新香蕉实时直播.json"
     },
    {
       "key": "天天视频福利版",
@@ -152,7 +152,7 @@
       "type": 3,
       "playerType": 2,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/XBPQ.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -172,7 +172,7 @@
       "name": "四虎┃采集",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "./lib/XBPQ.jar",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/XBPQ.jar",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -774,7 +774,7 @@
         "type": "rect",
         "ratio": 1.6
       },
-      "jar": "./lib/XBPQy.jar",
+      "jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/XBPQy.jar",
       "ext": {
         "作者": "小可乐/240329/第三版",
         "站名": "91电影网",
@@ -1396,7 +1396,7 @@
         {
             "name": "live.v1",
             "type": 0,
-            "url": "./lib/v1.txt",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/v1.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -1449,35 +1449,35 @@
     },
  {
       "name": "🔞直播",
-      "url": "./lib/直播18.txt"
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/直播18.txt"
     },
     {
       "name": "🔞wwb2000",
-      "url": "./lib/fl.txt"
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/fl.txt"
     },
     {
       "name": "🔞1.2w部",
-      "url": "./lib/18-1w2.m3u"
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/18-1w2.m3u"
     },
     {
       "name": "🔞566部",
-      "url": "./lib/18-566.txt"
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/18-566.txt"
     },
     {
       "name": "🔞7w部",
-      "url": "./lib/做爱大全.txt"
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/做爱大全.txt"
     },
     {
       "name": "🔞麻豆欧美成人1800",
-      "url": "./lib/麻豆欧美成人0123.m3u"
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/麻豆欧美成人0123.m3u"
     },
     {
       "name": "🔞中日成人900",
-      "url": "./lib/中日成人-0109.m3u"
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/中日成人-0109.m3u"
     },
     {
       "name": "🔞1w部",
-      "url": "./lib/Adult.m3u"
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yscvip/sryy/main/lib/Adult.m3u"
     },
         {
             "group": "redirect",
